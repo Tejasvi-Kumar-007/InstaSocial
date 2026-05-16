@@ -13,6 +13,3 @@ A simple Instagram-inspired social media UI built using HTML, CSS, and JavaScrip
 - HTML
 - CSS (Flexbox + Grid + Variables)
 - JavaScript (DOM manipulation)
-
-## Note
-This project is currently not responsive (desktop only). Mobile responsiveness will be added in future updates.
